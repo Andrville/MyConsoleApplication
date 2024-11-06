@@ -10,8 +10,10 @@ namespace HelloFromMyfirstAPP
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello WOrld");
             Console.WriteLine("Feature branch 1 - development 1");
-        
+            Console.WriteLine("Feature branch 1 - development 2");
+
         }
     }
 }
